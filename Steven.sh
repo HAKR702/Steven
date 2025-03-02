@@ -134,7 +134,7 @@ echo -e "$red"
 read -p "Wanna Back To Main Menu [ Y / n ] : " check4
 elif [ $ch = 5 ]; then
 echo -e "			$Cyan TikTok Brute Force$nc"
-cd TikTok/
+cd attack-TikTok/
 sleep 0.025
         echo -e "	[+]$red Service Tor Stated $nc[+]"
 sleep 0.9
