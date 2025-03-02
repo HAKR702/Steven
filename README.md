@@ -17,7 +17,7 @@
 5-sudo bash install.sh
 
 
-6- sudo bash Steven
+6- sudo bash Steven.sh
 
 
  انا اخلي مسوليتي من استخدامك الاخطاء
