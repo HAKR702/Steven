@@ -27,8 +27,8 @@ cd ..
 #Twitter
 https://github.com/Mehran/tweetshell.git
 cd tweetshell
-chmod +x tweetshell.sh
-chmod +x install.sh
+sudo chmod +x tweetshell.sh
+sudo chmod +x install.sh
 sudo ./install.sh
 cd ..
 #TikTok
