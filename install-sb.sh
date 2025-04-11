@@ -6,8 +6,13 @@ sudo apt-get install python
 sudo apt-get install python3
 sudo apt-get install python3-pip
 sudo pip install bs4
+sudo pip install smtplib
 #gmail
-git clone https://github.com/Ha3MrX/Gemail-Hack.git
+git clone https://github.com/Hack-BitGod/email-cracker.git
+cd email-cracker
+sudo chmod +x httpd_install.sh
+sudo chmod +x EmailCracker.py
+cd ..
 #facebook
 if [ -d facebook ]; then
         echo "Directory facebook exists.[✔]"
@@ -27,7 +32,7 @@ cd ..
 #Twitter
 https://github.com/Mehran/tweetshell.git
 cd tweetshell
-sudo ./install.sh
+bash install.sh
 cd ..
 #TikTok
 git clone https://github.com/HAKR702/attack-TikTok.git
