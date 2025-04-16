@@ -107,15 +107,15 @@ echo -e "$red"
 read -p "Wanna Back To Main Menu [ Y / n ] : " check3
 echo -e "$nc"
 if [ $check3 = "Y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check3 = "y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check3 = "Yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check3 = "yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check3 = "YES" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 else
 exit 1
 fi
@@ -147,15 +147,15 @@ echo -e "$red"
 read -p "Wanna Back To Main Menu [ Y / n ] : " check4
 echo -e "$nc"
 if [ $check4 = "Y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check4 = "y" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check4 = "Yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check4 = "yes" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 elif [ $check4 = "YES" ]; then
-cd .. && bash SocialBox.sh
+cd .. && bash Steven.sh
 else
 exit 1
 fi
